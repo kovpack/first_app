@@ -8,3 +8,10 @@ tmp/*
 doc/api
 doc/app
 *.swp
+key_here
+key_here.pub
+key_here.txt
+key_here.txt.pub
+kovpack86.txt
+kovpack.txt.pub
+kovpack86.txt.pub
